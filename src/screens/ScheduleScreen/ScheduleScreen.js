@@ -172,7 +172,6 @@ function ScheduleScreen() {
       ],
     },
   ]
-
   useEffect(() => {
     const result = () => {
       fakeData.map(item => {
